@@ -9,7 +9,7 @@ Students will be able to:
 2.	Share and discuss personal data management experiences.
 3.	Examine their current practices within conversations around F.A.I.R. data principles.
 4.	Use the University of Otago DMP tool.
-### Will this presentation address specific disciplinary data needs? 
+### Will this presentation address specific disciplinary data management needs? 
 The workshop is designed to be discipline agnostic. We believe the basics of good data management are universal regardless of discipline, level of study, or format of data.  However, if you require a more tailored approach please see "Tailored Support" below.  
 
 ## Tailored Support
@@ -19,3 +19,7 @@ Individual researchers can approach their Subject Librarians to talk about Resea
 
 ### Research Support Unit (RSU)
 The RSU is available to provide advice on defining and implementing your RDM strategy.  The RSU can run advocacy and awareness raising programmes in your department or unit, training on creating Research Data Management plans, and support the publishing of data. When delivering tailored training and advice, the RSU works in partnership with a nominated researcher from the department or unit who provides discipline specific information on data generated, workflows and common software and instruments. This is vitally important to ensuring the training is relevant.      
+
+### Important Resources
+[University of Otago Data Management Planning tool (DMPt)](https://www.otago.ac.nz/library/dmp/index.html)
+[University of Otago Managing Your Research Data guide](https://otago.libguides.com/data_management)

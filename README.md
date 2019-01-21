@@ -15,7 +15,7 @@ The workshop is designed to be discipline agnostic. We believe the basics of goo
 ## Tailored Support
 
 ### Subject Librarians
-Individual researchers can approach their Subject Librarians to talk about Research Data Management.  Depending on the complexity of the question the Subject Librarian may refer a researcher to the Research Support Unit for specialised help.   
+Individual researchers can approach their Subject Librarian to talk about Research Data Management.  Depending on the complexity of the question the Subject Librarian may refer a researcher to the Research Support Unit for specialised help.   
 
 ### Research Support Unit (RSU)
 The RSU is available to provide advice on defining and implementing your RDM strategy.  The RSU can run advocacy and awareness raising programmes in your department or unit, training on creating Research Data Management plans, and support the publishing of data. When delivering tailored training and advice, the RSU works in partnership with a nominated researcher from the department or unit who provides discipline specific information on data generated, workflows and common software and instruments. This is vitally important to ensuring the training is relevant.      

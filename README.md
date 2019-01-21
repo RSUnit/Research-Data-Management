@@ -24,3 +24,5 @@ The RSU is available to provide advice on defining and implementing your RDM str
 [University of Otago Data Management Planning tool (DMPt)](https://www.otago.ac.nz/library/dmp/index.html)
 
 [University of Otago Managing Your Research Data guide](https://otago.libguides.com/data_management)
+
+## [Email for more information](mailto:library.research@otago.ac.nz)

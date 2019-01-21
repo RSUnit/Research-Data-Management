@@ -9,6 +9,7 @@ Students will be able to:
 2.	Share and discuss personal data management experiences.
 3.	Examine their current practices within conversations around F.A.I.R. data principles.
 4.	Use the University of Otago DMP tool.
+
 ### Will this presentation address specific disciplinary data management needs? 
 The workshop is designed to be discipline agnostic. We believe the basics of good data management are universal regardless of discipline, level of study, or format of data.  However, if you require a more tailored approach please see "Tailored Support" below.  
 

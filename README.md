@@ -1,4 +1,4 @@
-# Research Data Management Education at the University of Otago Library
+# Research Data Management (RDM) Education at the University of Otago Library
 Helping researchers make sense of the complexity around data storage, description, re-use and archiving.
 
 ## Research Data Management workshop
@@ -8,9 +8,9 @@ Students will be able to:
 1.	Think critically about best practice in the management, storage and sharing of research data, relating it to their discipline and research practices.
 2.	Share and discuss personal data management experiences.
 3.	Examine their current practices within conversations around F.A.I.R. data principles.
-4.	Use the University of Otago DMP tool.
+4.	Use the University of Otago Data Management Planning (DMP) tool.
 
-### Will this presentation address specific disciplinary data management needs? 
+### Will this presentation address specific data management needs of my discipline? 
 The workshop is designed to be discipline agnostic. We believe the basics of good data management are universal regardless of discipline, level of study, or format of data.  However, if you require a more tailored approach please see "Tailored Support" below.  
 
 ## Tailored Support
